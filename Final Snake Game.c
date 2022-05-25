@@ -162,7 +162,7 @@ void main()
 			printf("\n           /     /           _-~      ~-_         |   |          ");
 			printf("\n          (      (        _-~    _--_    ~-_     _/   |          ");
 			printf("\n           \\      ~-____-~    _-~    ~-_    ~-_-~    /          ");
-			printf("\n             ~-_           _-~          ~-_       _-~       -Siddhant,Hitarth,Jasbir     ");
+			printf("\n             ~-_           _-~          ~-_       _-~       -Siddhant Dayal    ");
 			printf("\n                ~--______-~                ~-___-~              \n\n\n ");
 			for(int i=0;i<100;i++){
                 printf("-");
